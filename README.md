@@ -12,5 +12,4 @@ To do this, you'll need to know the path to the directory you'd like to download
 Before you proceed, ensure you know the path to your directory.
 
 ### Pull files
-You have the option to pull the entire repository (every file in this GitHub page) or to pull only specific files from the cloud to your local computer. Below are instructions for both.
-#### Pulling the entire repository
+You have the option to pull the entire repository (every file in this GitHub page) or to pull only specific files from the cloud to your local computer. Below are instructions for both. For now, [here's a good reference on how to pull files](https://www.atlassian.com/git/tutorials/syncing/git-pull)
